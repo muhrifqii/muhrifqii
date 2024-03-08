@@ -12,7 +12,7 @@
     A committed and detail-oriented software engineer
   </h1>
   <p>
-    Committed and detail-oriented software engineer with demonstrated skill with 5+ years of experience both technical and managerial in product development. Experienced in full SDLC all stacks, including native mobile Android & and iOS, frontend web and multiplatform web-based apps, backend, and containerized automatic deployment. 🚀
+    Committed and detail-oriented software engineer with demonstrated skill with 7+ years of experience both technical and managerial in product development. Experienced in full SDLC all stacks, including native mobile Android & and iOS, frontend web and multiplatform web-based apps, backend, and containerized automatic deployment. 🚀
   </p>
 </div>
 
