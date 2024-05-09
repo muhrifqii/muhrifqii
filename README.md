@@ -12,11 +12,15 @@
     A committed and detail-oriented software engineer
   </h1>
   <p>
-    Committed and detail-oriented software engineer with demonstrated skill with 7+ years of experience both technical and managerial in product development. Experienced in full SDLC all stacks, including native mobile Android & and iOS, frontend web and multiplatform web-based apps, backend, and containerized automatic deployment. 🚀
+    Committed and detail-oriented software engineer with demonstrated skill with 7+ years of experience both technical and managerial in product development. My experience started with mobile dev for 5 years, continued with 5 years of experience in Spring Boot and 4 years of experience in Frontend (Both React & Angular). Fullstack world and beyond 🚀
   </p>
 </div>
-
 <div align="center">
+  <a href="https://wakatime.com/@018e7cc3-0f6c-4100-a3fe-eca695d4adb4"><img src="https://wakatime.com/badge/user/018e7cc3-0f6c-4100-a3fe-eca695d4adb4.svg" alt="Total time coded since Mar 27 2024" /></a></div>
+<div align="center">
+<br/>
+<br/>
+
 <picture>
   <!-- <source
     srcset="https://github-readme-stats.vercel.app/api?username=muhrifqii&show_icons=true&theme=dark"
