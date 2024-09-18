@@ -12,7 +12,10 @@
     A committed and detail-oriented software engineer
   </h1>
   <p>
-    Committed and detail-oriented software engineer with demonstrated skill with 7+ years of experience both technical and managerial in product development. My experience started with mobile dev for 5 years, continued with 5 years of experience in Spring Boot and 4 years of experience in Frontend (Both React & Angular). Fullstack world and beyond 🚀
+    Committed and detail-oriented software engineer with demonstrated skill with more than 7 years of experience both technical and managerial in product development. The percentage between technical and managerial is 70:30.    
+  </p>
+  <p>
+    I have wide coverage of technology for multiple stacks. My experience started with native mobile dev for 5 years using Java, Kotlin, and Swift language. Continued with more than 4 years of experience in Fullstack Development, using Spring Boot Java as the backend, and using both react and angular as the frontend, all running on Google Cloud Platform.
   </p>
 </div>
 <div align="center">
