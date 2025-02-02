@@ -11,12 +11,10 @@
   <h1>
     A committed and detail-oriented software engineer
   </h1>
-  <p>
-    A committed and detail-oriented software engineer with demonstrated skills of more than 8 years of experience in both technical and managerial. The percentage between technical and managerial is 70:30.    
-  </p>
-  <p>
+  <p>Committed and detail-oriented Software Engineer with 10+ years of experience building scalable systems and leading high-performing engineering teams. Proven track record in delivering impactful solutions across multiple stacks, including Java, Kotlin, Go, and Typescript that drive revenue growth. Passionate about cloud-native technologies, mentoring engineers, driving technical excellence, and aligning engineering efforts with business goals.</p>
+<!--   <p>
     I have wide coverage of technology for multiple stacks. My experience started with native mobile dev for 5 years using Java, Kotlin, and Swift language. Continued with more than 5 years of experience in Fullstack Development, using Spring Boot Java as the backend, and using both react and angular as the frontend, all running on Google Cloud Platform.
-  </p>
+  </p> -->
 </div>
 <div align="center">
   <a href="https://wakatime.com/@018e7cc3-0f6c-4100-a3fe-eca695d4adb4"><img src="https://wakatime.com/badge/user/018e7cc3-0f6c-4100-a3fe-eca695d4adb4.svg" alt="Total time coded since Mar 27 2024" /></a></div>
