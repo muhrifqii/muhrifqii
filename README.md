@@ -35,6 +35,6 @@
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhrifqii&size_weight=0&count_weight=1&layout=compact&langs_count=10&hide=dockerfile,makefile,html,scss,css,vim%20script"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhrifqii&size_weight=0.9&count_weight=0.5&layout=compact&langs_count=12&hide=makefile,html,scss,css,vim%20script,c%23,renderscript"/>
 </picture>
 </div>
