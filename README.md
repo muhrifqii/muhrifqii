@@ -24,17 +24,18 @@
 
 <picture>
   <!-- <source
-    srcset="https://github-readme-stats.vercel.app/api?username=muhrifqii&show_icons=true&theme=dark"
+    srcset="https://github-stats-extended.vercel.app/api?username=muhrifqii&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   /> -->
   <!-- <source
-    srcset="https://github-readme-stats.vercel.app/api?username=muhrifqii&show_icons=true"
+    srcset="https://github-stats-extended.vercel.app/api?username=muhrifqii&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=muhrifqii&show_icons=true&rank_icons=github&show=prs_merged" />
+  
+  <img src="https://github-stats-extended.vercel.app/api?username=muhrifqii&show_icons=true&rank_icons=github&show=prs_merged" />
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhrifqii&size_weight=0.9&count_weight=0.5&layout=compact&langs_count=12&hide=makefile,html,scss,css,vim%20script,c%23,renderscript"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhrifqii&size_weight=0.9&count_weight=0.5&layout=compact&langs_count=12&hide=makefile,html,scss,css,vim%20script,c%23,renderscript"/>
 </picture>
 </div>
